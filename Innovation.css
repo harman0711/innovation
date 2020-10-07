@@ -1,0 +1,44 @@
+#header{
+	border:solid;
+}
+body{
+	background-color: lightgrey;
+}	
+
+.text{
+	
+	float: left;
+	width: 33.05%;
+	height: 400px;
+	
+	
+
+}
+#bilde1{
+	width: 450px;
+	height:400px;
+	
+
+}
+#bilde2{
+	width: 250px;
+	height: 350px;
+	position: absolute;
+	top: 520px;
+	left: 100px;
+
+	
+
+}
+#bilde3{
+	width: 450px;
+	height: 300px;
+	position: absolute;
+	top: 520px;
+	right: 25px;
+}
+#siste{
+	float: left;
+	width: 100%;
+	border-top: solid;
+}
